@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94832024706",
+    "project_id": "mentomate-b6383",
+    "storage_bucket": "mentomate-b6383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94832024706:android:855a0e5067859918ca689b",
+        "android_client_info": {
+          "package_name": "com.example.madproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsgbCOZxHPdU1TG_yZY4pGd_ntHMOPfto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
